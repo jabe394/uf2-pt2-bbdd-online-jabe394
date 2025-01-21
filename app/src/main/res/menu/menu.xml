@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Item para donar d'alta -->
+    <item
+        android:id="@+id/menu_donar_alta"
+        android:title="Donar d'alta">
+    </item>
+    <!-- Item para donar de baixa -->
+    <item
+        android:id="@+id/menu_donar_baixa"
+        android:title="Donar de baixa">
+    </item>
+
+    <!-- Item para modificar el número de telèfon -->
+    <item
+        android:id="@+id/menu_modificar_telefon"
+        android:title="Modificar el número de telèfon">
+    </item>
+</menu>

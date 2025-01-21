@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103542141044",
+    "project_id": "pt2-bbdd-online-bertomeu-jaume",
+    "storage_bucket": "pt2-bbdd-online-bertomeu-jaume.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103542141044:android:8733e0c74f55589beea121",
+        "android_client_info": {
+          "package_name": "com.example.pt2_bbdd_online_bertomeu_jaume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0qOJGHQL7wlmj4xJIR2M5vmob6TIRJd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
